@@ -1,1 +1,3 @@
-# A landing page For Kessoku Band developed with the MERN stack
+# A landing page for Kessoku Band
+
+I developed it with the MERN stack
